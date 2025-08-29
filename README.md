@@ -8,19 +8,21 @@
 
 ## **<h1 align="center">Table of contents</h1>**
 
-# Assembling
+# [Assembling](#Assembling)
 
-- ## Nano Type-C
-- ## Joystick Module
-- ## OLED display 0.96 I2C 128x64
+- Nano Type-C
+- Joystick Module
+- OLED display 0.96 I2C 128x64
 
 # Programming
 
-- ## Installing the library for the display (OLED display 0.96 I2C 128x64)
-- ## Installing the library for the joystick (Joystick Module)
+- Installing the library for the display (OLED display 0.96 I2C 128x64)
+- Installing the library for the joystick (Joystick Module)
 
 # Where can I buy it?
 
-- ## Purchase on Wildberries Nano Type-C
-- ## Purchase on Wildberries OLED display 0.96 I2C 128x64
-- ## Purchase on Wildberries Joystick Module
+- Purchase on Wildberries Nano Type-C
+- Purchase on Wildberries OLED display 0.96 I2C 128x64
+- Purchase on Wildberries Joystick Module
+
+## [Assembling](#Assembling)
