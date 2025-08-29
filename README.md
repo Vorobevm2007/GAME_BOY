@@ -45,5 +45,10 @@ I specially selected an **Arduino Type-C** board for this project. In the future
 
 ## [Programming](#Programming)
 
+<p align="left"><img src="Image/Scheme OLED I2C.png" style="border: 5px solid black; width="240" height="150"></p>
+
+**Connection**
+
+<p align="left"><img src="Image/Arduino Nano in OLED.jpg" style="border: 5px solid black; width="960" height="400"></p>
 
 ## [Where can I buy it?](#WhereCanIBuyIt)
