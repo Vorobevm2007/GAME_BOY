@@ -14,15 +14,36 @@
 - Joystick Module
 - OLED display 0.96 I2C 128x64
 
-# Programming
+# [Programming](#Programming)
 
 - Installing the library for the display (OLED display 0.96 I2C 128x64)
 - Installing the library for the joystick (Joystick Module)
 
-# Where can I buy it?
+# [Where can I buy it?](#WhereCanIBuyIt)
 
 - Purchase on Wildberries Nano Type-C
 - Purchase on Wildberries OLED display 0.96 I2C 128x64
 - Purchase on Wildberries Joystick Module
 
+## **<h1 align="center">Game Boy</h1>**
+
 ## [Assembling](#Assembling)
+
+### Nano Type-C
+
+<p align="left"><img src="Image/Scheme Ardiuno NANO.png" style="border: 5px solid black; width="238" height="94"></p>
+
+I specially selected an **Arduino Type-C** board for this project. In the future, if you want to make a case for it, *you can *tarnish* the **GAME BOY** with a phone and Type-C wires on Type-C*.
+
+### Joystick Module
+
+<p align="left"><img src="Image/Scheme keyes_Sjoys.png" style="border: 5px solid black; width="240" height="100"></p>
+
+**Connection**
+
+<p align="left"><img src="Image/Arduino Nano in Sjoys.jpg" style="border: 5px solid black; width="960" height="400"></p>
+
+## [Programming](#Programming)
+
+
+## [Where can I buy it?](#WhereCanIBuyIt)
